@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Sudais Bin Sohail</h1>
 <h3 align="center">Passionate Flutter developer with expertise in creating beautiful, high-performance apps for Android, iOS, and the web. Experienced in implementing custom UI designs, integrating third-party APIs, and optimizing app performance. Always striving to learn and explore new technologies to enhance my skills and stay up-to-date in the ever-evolving mobile development landscape</h3>
 
